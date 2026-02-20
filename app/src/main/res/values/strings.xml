@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">lab_2</string>
+    <string name="app_name">World Landmarks</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
 </resources>
